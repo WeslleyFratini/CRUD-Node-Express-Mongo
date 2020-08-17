@@ -28,7 +28,7 @@ Antes de instalar as dependências no projeto, você precisa já ter instalado n
 * **Node.Js**: Caso não tenha, basta realizar o download [Aqui](https://nodejs.org/en/)
 * **MongoDb**: Caso também não tenha, basta realizar o download [Aqui](https://www.mongodb.com/download-center#community)
 
-p.s.: o MongoDb caso você decida conectar a sua base de dados de maneira local. Caso não, basta usar 
+O MongoDb caso você decida conectar a sua base de dados de maneira local. Caso não, basta usar 
 a base de dados do MongoDb em Cloud:
 
 * [MLab](https://mlab.com/)
